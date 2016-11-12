@@ -8,7 +8,7 @@
 
 import Foundation
 
-public let TRENetworkingErrorDomain = "com.treehouse.Stormy.NetworkingError"
+public let TRENetworkingErrorDomain = "com.thebao.NetworkingError"
 
 public let MissingHTTPResponseError: Int = 10
 public let UnexpectedResponseError: Int = 20
